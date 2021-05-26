@@ -1,0 +1,15 @@
+{
+  "name": "FINAPI",
+  "version": "1.0.0",
+  "description": "Financial API",
+  "main": "index.js",
+  "author": "Luiz Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
